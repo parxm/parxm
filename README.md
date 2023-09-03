@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **getupparam@gmail.com**
 
-- ⚡ Fun fact **You do not have to be in tech to be a coder.**
+- ⚡ Fun fact **You do not have to be a coder to be in Tech.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
