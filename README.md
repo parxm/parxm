@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parampreet</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A normal software developer from India</h3>
 <img align ="right" alt ="codingcatgif" width ="400" height ="300" src="https://media1.tenor.com/images/80102550479835807fdd8ab3cbab2565/tenor.gif?itemid=15731367">
 
 <p align="left"> <a href="https://twitter.com/parampreet99" target="blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.besthdwallpaper.com%2Fanime%2Foffice-cabin-dt_en-US-77031.html&psig=AOvVaw1LfD5DEYkMZVZ1V29Kpux_&ust=1693223668553000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCICcl-_j_IADFQAAAAAdAAAAABAD" alt="parampreet99" /></a> </p>
