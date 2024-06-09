@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Parampreet and I'm a regular normal web developer, from India.</h2>
+
 
 ###
 
